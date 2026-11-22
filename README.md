@@ -55,7 +55,7 @@ I'm an aspiring product analyst, currently pursuing a BSc in Mathematics and Com
 - Ranked categories by opportunity: apparel converts at **1.74%**, with up to about **16,100 extra buyers if it matched the baseline (a scenario, not a forecast)**
 - Designed a randomized size-guide test (about 46K users per group, returns as the guardrail). It is a **design only**: no experiment was run
 
-### 🏥 [E-Commerce Funnel Analysis](https://github.com/arvindparaliya/health-care-analysis)
+### 🏥 [Health Care Analysis](https://github.com/arvindparaliya/health-care-analysis)
 *SQL, Power BI*
 - Analyzed 10,000+ patient records to identify treatment patterns, cost drivers, and demographic trends
 - Built interactive Power BI dashboards tracking admissions, treatment costs, and patient demographics
