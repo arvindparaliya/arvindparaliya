@@ -4,7 +4,7 @@
 
 </div>
 
-I'm an aspiring product analyst, currently pursuing a BSc in Mathematics and Computer Science (IGNOU, distance learning). I like turning raw, messy behavioural data into clear, decision-ready insights, and I'm careful about how metrics are defined and what the data can and cannot say.
+I'm an aspiring product analyst, currently pursuing a BSc in Mathematics and Computer Science. I like turning raw, messy behavioural data into clear, decision-ready insights, and I'm careful about how metrics are defined and what the data can and cannot say.
 
 <br>
 
